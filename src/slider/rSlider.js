@@ -1,4 +1,4 @@
-(function () {
+export const rSlider = (function () {
 	'use strict';
 
 	var RS = function (conf) {

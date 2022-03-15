@@ -1,4 +1,4 @@
-var mySlider = new rSlider({
+export const mySlider = new rSlider({
   target: '#sampleSlider',
   values: [10000, 1000000],
   range: true,
